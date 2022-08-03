@@ -1,7 +1,7 @@
 /**
-   * Create By Xyrzaa.
-   * Contact Me on wa.me/14129688025
-   * Follow https://github.com/Xyrzaa
+   * Create By arygamz.
+   * Contact Me on wa.me/994408465157
+   * Follow https://github.com/arybotz
 */
 
 const fs = require('fs')
@@ -20,8 +20,8 @@ global.APIKeys = {
 }
 
 // Other
-global.owner = ['6283871223340']
-global.premium = ['6288292024190']
+global.owner = ['994408465157']
+global.premium = ['994408465157']
 global.packname = 'ARY BOTZ V17'
 global.author = 'AryTuru'
 global.sessionName = 'session'
